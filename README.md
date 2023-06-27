@@ -57,3 +57,4 @@ Click to show/hide file contents
 Click to show/hide file contents
 Finally…
 Don’t forget to run npm install from the terminal of your project folder to install all necessary project dependencies.
+# alx-frontend-javascript
